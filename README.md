@@ -10,17 +10,6 @@ This is a command-line To-Do List application written in the C programming langu
 - Tasks are saved in a file named `tasks.txt`
 - Tasks are automatically loaded when the program starts
 
-## Folder Structure
-
-todo-list-c-project/
-├── src/
-│ ├── main.c
-│ └── functions.c
-├── include/
-│ └── functions.h
-├── tasks.txt
-├── README.md
-
 ## How to Compile
 
 Use the following command in the terminal (make sure you are in the root folder):
